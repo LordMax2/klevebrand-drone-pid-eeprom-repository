@@ -1,6 +1,6 @@
 {
   "name": "klevebrand-drone-pid-eeprom-repository",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An implementation for klevebrand-all-drone-core pid repository that uses eeprom as storage.",
   "keywords": "klevebrand,eeprom,pid,drone",
   "repository":
